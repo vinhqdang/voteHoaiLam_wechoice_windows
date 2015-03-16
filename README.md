@@ -1,4 +1,4 @@
-I wrote this small application to help Hoai Lam's fan can vote for him automatically on the website wechoice.vn
+
 
 #How to use?
 
